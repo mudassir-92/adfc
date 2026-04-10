@@ -31,6 +31,10 @@ Documentation = "https://github.com/U.N. Owen/adfc#readme"
 Issues = "https://github.com/U.N. Owen/adfc/issues"
 Source = "https://github.com/U.N. Owen/adfc"
 
+[project.scripts]
+adfc="adfc.main:main"
+
+
 [tool.hatch.version]
 path = "src/adfc/__about__.py"
 
