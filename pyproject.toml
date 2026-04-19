@@ -27,12 +27,12 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Documentation = "https://github.com/U.N. Owen/adfc#readme"
-Issues = "https://github.com/U.N. Owen/adfc/issues"
-Source = "https://github.com/U.N. Owen/adfc"
+Documentation = "https://github.com/mudassir-cpp/adfc#readme"
+Issues = "https://github.com/mudassir-cpp/adfc/issues"
+Source = "https://github.com/mudassir-cpp/adfc"
 
 [project.scripts]
-adfc="adfc.main:main"
+adfc="adfc.main:main"  # for running scripts from the CLi main.py should contan main() function
 
 
 [tool.hatch.version]

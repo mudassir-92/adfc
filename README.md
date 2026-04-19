@@ -9,6 +9,11 @@
 
 - [Installation](#installation)
 - [License](#license)
+- this repo will host custom cli handling many things about the flutter some including 
+- code template generation for my services as supabase (auth,database any many things) 
+- Model class generation from json and input()
+
+this README.md file should also document the full syntax and docs work...
 
 ## Installation
 
